@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+
+}
+.img{
+    width: 350px;
+    height: 125px;
+    background-color: gray;
+    padding-top: 75px;
+    text-align: center;
+    border: 1px solid gray;
+}
+.txt{
+    font-size: 30px;
+    font-family: montsserate;
+    color: white;
+}
+.text2{
+    padding-left: 25px;
+    border: 1px solid gray;
+    width: 340px;
+    padding-left: 10px;
+    font-family: roboto;
+    padding-bottom: 30px;
+    height: auto;
+}
+.h{
+    color: red;
+    margin-bottom: 0px;
+}
+.ct{
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+.lorem{
+   margin-top: 0px;
+}
+.btn{
+    text-decoration: none;
+    background-color: orange;
+    padding: 15px 30px 15px 30px;
+    color: white;
+    border-radius: 5px;
+}
+.d1{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    
+
+}
+.btn:hover{
+    border: 3px solid lightgrey;
+
+}
+
+
+
+
+   
+
